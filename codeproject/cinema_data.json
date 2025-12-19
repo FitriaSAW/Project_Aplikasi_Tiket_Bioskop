@@ -1,0 +1,373 @@
+{
+    "saldo": 0,
+    "riwayat_tiket": [
+        {
+            "judul": "Interstellar",
+            "studio": "Studio 2",
+            "jam": "18:30",
+            "kursi": [
+                "C5",
+                "C6"
+            ],
+            "total": 70000,
+            "waktu": "2025-12-10T02:22:30.130688"
+        },
+        {
+            "judul": "The Dark Knight",
+            "studio": "Studio 1",
+            "jam": "20:00",
+            "kursi": [
+                "A3",
+                "A4"
+            ],
+            "total": 70000,
+            "waktu": "2025-12-18T04:34:04.822577"
+        },
+        {
+            "judul": "The Dark Knight",
+            "studio": "Studio 2",
+            "jam": "18:30",
+            "kursi": [
+                "B5",
+                "B6"
+            ],
+            "total": 70000,
+            "waktu": "2025-12-18T08:51:50.970621",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "The Dark Knight",
+            "studio": "Studio 3",
+            "jam": "21:30",
+            "kursi": [
+                "A4",
+                "A5"
+            ],
+            "total": 70000,
+            "waktu": "2025-12-18T08:52:01.547720",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "The Dark Knight",
+            "studio": "Studio 3",
+            "jam": "21:30",
+            "kursi": [
+                "D6",
+                "D7",
+                "D8"
+            ],
+            "total": 105000,
+            "waktu": "2025-12-18T08:52:08.995589",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "Interstellar",
+            "studio": "Studio 2",
+            "jam": "18:30",
+            "kursi": [
+                "B7",
+                "B8",
+                "C8"
+            ],
+            "total": 105000,
+            "waktu": "2025-12-18T08:53:58.938566",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "Interstellar",
+            "studio": "Studio 2",
+            "jam": "18:30",
+            "kursi": [
+                "E7",
+                "E8"
+            ],
+            "total": 70000,
+            "waktu": "2025-12-18T08:54:06.165966",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "Interstellar",
+            "studio": "Studio 2",
+            "jam": "18:30",
+            "kursi": [
+                "G7",
+                "G8"
+            ],
+            "total": 70000,
+            "waktu": "2025-12-18T08:54:12.119938",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "Interstellar",
+            "studio": "Studio 2",
+            "jam": "18:30",
+            "kursi": [
+                "F4",
+                "F5"
+            ],
+            "total": 70000,
+            "waktu": "2025-12-18T08:54:21.492926",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "Interstellar",
+            "studio": "Studio 2",
+            "jam": "18:30",
+            "kursi": [
+                "E2",
+                "E3"
+            ],
+            "total": 70000,
+            "waktu": "2025-12-18T08:54:26.407324",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "Avatar 3D",
+            "studio": "Studio 2",
+            "jam": "18:30",
+            "kursi": [
+                "B4",
+                "B5",
+                "B6"
+            ],
+            "total": 105000,
+            "waktu": "2025-12-18T08:56:46.805502",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "Avatar 3D",
+            "studio": "Studio 2",
+            "jam": "18:30",
+            "kursi": [
+                "D4",
+                "D5"
+            ],
+            "total": 70000,
+            "waktu": "2025-12-18T08:57:02.876117",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "Avatar 3D",
+            "studio": "Studio 2",
+            "jam": "18:30",
+            "kursi": [
+                "E3",
+                "E4",
+                "E5"
+            ],
+            "total": 105000,
+            "waktu": "2025-12-18T08:57:08.627684",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "Avatar 3D",
+            "studio": "Studio 2",
+            "jam": "18:30",
+            "kursi": [
+                "F5"
+            ],
+            "total": 35000,
+            "waktu": "2025-12-18T08:57:12.751356",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "Avatar 3D",
+            "studio": "Studio 2",
+            "jam": "18:30",
+            "kursi": [
+                "G7",
+                "H7"
+            ],
+            "total": 70000,
+            "waktu": "2025-12-18T08:57:17.809019",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "Avatar 3D",
+            "studio": "Studio 2",
+            "jam": "18:30",
+            "kursi": [
+                "C8",
+                "D8"
+            ],
+            "total": 70000,
+            "waktu": "2025-12-18T08:57:22.719624",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "Avatar 3D",
+            "studio": "Studio 2",
+            "jam": "18:30",
+            "kursi": [
+                "A8",
+                "B8"
+            ],
+            "total": 70000,
+            "waktu": "2025-12-18T08:57:27.314106",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "Titanic",
+            "studio": "Studio 2",
+            "jam": "18:30",
+            "kursi": [
+                "A4",
+                "A5"
+            ],
+            "total": 70000,
+            "waktu": "2025-12-18T08:57:48.964688",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "Titanic",
+            "studio": "Studio 2",
+            "jam": "18:30",
+            "kursi": [
+                "E5",
+                "E6"
+            ],
+            "total": 70000,
+            "waktu": "2025-12-18T08:57:55.093235",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "Titanic",
+            "studio": "Studio 2",
+            "jam": "18:30",
+            "kursi": [
+                "G5",
+                "G6",
+                "G7"
+            ],
+            "total": 105000,
+            "waktu": "2025-12-18T08:58:02.249171",
+            "tanggal": "2025-12-18"
+        },
+        {
+            "judul": "Interstellar",
+            "studio": "Studio 1",
+            "jam": "20:00",
+            "kursi": [
+                "A5",
+                "A6"
+            ],
+            "total": 70000,
+            "waktu": "2025-12-18T23:41:03.134786",
+            "tanggal": "2025-12-19"
+        },
+        {
+            "judul": "Interstellar",
+            "studio": "Studio 3",
+            "jam": "21:30",
+            "kursi": [
+                "A5",
+                "A6"
+            ],
+            "total": 70000,
+            "waktu": "2025-12-18T23:48:11.401125",
+            "tanggal": "2025-12-19"
+        }
+    ],
+    "kursi_terisi": {
+        "Interstellar|Studio 2|18:30": [
+            "B7",
+            "B8",
+            "C5",
+            "C6",
+            "C8",
+            "E2",
+            "E3",
+            "E7",
+            "E8",
+            "F4",
+            "F5",
+            "G7",
+            "G8"
+        ],
+        "The Dark Knight|Studio 1|20:00": [
+            "A3",
+            "A4"
+        ],
+        "The Dark Knight|Studio 2|18:30": [
+            "B5",
+            "B6"
+        ],
+        "The Dark Knight|Studio 3|21:30": [
+            "A4",
+            "A5",
+            "D6",
+            "D7",
+            "D8"
+        ],
+        "Avatar 3D|Studio 2|18:30": [
+            "A8",
+            "B4",
+            "B5",
+            "B6",
+            "B8",
+            "C8",
+            "D4",
+            "D5",
+            "D8",
+            "E3",
+            "E4",
+            "E5",
+            "F5",
+            "G7",
+            "H7"
+        ],
+        "Titanic|Studio 2|18:30": [
+            "A4",
+            "A5",
+            "E5",
+            "E6",
+            "G5",
+            "G6",
+            "G7"
+        ],
+        "Interstellar|Studio 1|20:00": [
+            "A5",
+            "A6"
+        ],
+        "Interstellar|Studio 3|21:30": [
+            "A5",
+            "A6"
+        ]
+    },
+    "films": [
+        {
+            "id": 1,
+            "judul": "Interstellar",
+            "deskripsi": "Sci-fi epic. Di saat Bumi perlahan kehilangan harapan akibat gagal panen dan bencana alam, seorang mantan pilot NASA bernama Cooper dipercaya memimpin misi berbahaya ke luar angkasa. Melalui sebuah lubang cacing misterius, ia dan timnya menjelajahi planet-planet asing demi menemukan rumah baru bagi umat manusia. Perjalanan ini bukan sekadar melawan kerasnya alam semesta, tetapi juga melawan waktu—di mana satu jam bisa berarti bertahun-tahun di Bumi. Di balik ketegangan dan keindahan luar angkasa, Cooper harus menghadapi pengorbanan terbesar: meninggalkan orang yang paling ia cintai.Interstellar menyajikan petualangan luar angkasa yang epik, penuh emosi, dan membuat penonton bertanya: seberapa jauh manusia rela pergi demi masa depan dan cinta? 🌌🚀",
+            "poster": "posters/film1.jpeg"
+        },
+        {
+            "id": 2,
+            "judul": "The Dark Knight",
+            "deskripsi": "Action/Crime.Ketika kejahatan di Gotham semakin tak terkendali, Batman muncul sebagai simbol harapan bagi warga kota. Namun segalanya berubah saat seorang kriminal jenius misterius bernama Joker muncul dengan rencana kacau yang tak hanya mengancam kota, tetapi juga menguji batas moral Batman.Joker tidak menginginkan uang atau kekuasaan—ia ingin membuktikan bahwa setiap orang bisa jatuh ke dalam kekacauan. Dalam permainan psikologis yang penuh teror, Batman harus menghadapi pilihan-pilihan mustahil, kehilangan orang-orang terdekat, dan dilema antara keadilan dan balas dendam. ",
+            "poster": "posters/film2.jpeg"
+        },
+        {
+            "id": 3,
+            "judul": "Avatar 3D",
+            "deskripsi": "Fantasy/Sci-fi. Di planet asing Pandora, seorang mantan marinir lumpuh bernama Jake Sully mendapatkan kesempatan kedua melalui tubuh Avatar, makhluk hasil rekayasa yang menyerupai suku asli Na’vi. Awalnya ditugaskan untuk membantu manusia mengeksploitasi sumber daya Pandora, Jake justru mulai memahami kehidupan, budaya, dan hubungan mendalam Na’vi dengan alam.Saat konflik antara manusia dan penduduk asli semakin memanas, Jake harus memilih antara kesetiaan pada asalnya atau melindungi dunia baru yang telah memberinya arti hidup.",
+            "poster": "posters/film3.jpeg"
+        },
+        {
+            "id": 4,
+            "judul": "Titanic",
+            "deskripsi": "Drama/Romance. Di atas kapal mewah RMS Titanic yang berlayar dalam pelayaran perdananya, Jack, seorang seniman miskin, bertemu dengan Rose, wanita muda dari keluarga kaya yang terjebak dalam kehidupan yang tidak ia inginkan. Pertemuan mereka menumbuhkan cinta yang indah di tengah kemewahan kapal.Namun kebahagiaan itu berubah menjadi tragedi ketika Titanic menabrak gunung es. Di tengah kepanikan dan perjuangan hidup, cinta Jack dan Rose diuji oleh pengorbanan, keberanian, dan takdir.",
+            "poster": "posters/film4.jpeg"
+        }
+    ],
+    "next_film_id": 5,
+    "theme": {
+        "primary": "#800000",
+        "accent": "#FFD700",
+        "bg": "#000000",
+        "card": "#FFFFFF",
+        "sold": "#4D0000",
+        "available": "#FFFFFF",
+        "selected": "#FFD700"
+    }
+}
